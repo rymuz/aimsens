@@ -1,0 +1,8 @@
+sc delete EasyAntiCheat
+
+
+Provides integrated security and services for online multiplayer games.
+ sc delete EasyAntiCheat
+
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319>InstallUtil.exe "C:\Users\rymuz\OneDrive\Pulpit\aPP\LoggingService\bin\Release\LoggingService.exe"
